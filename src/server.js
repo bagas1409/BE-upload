@@ -14,7 +14,7 @@ const app = express();
 const allowedOrigins = [
   "https://fe-web-upload.vercel.app",
   "http://localhost:5173",
-  "https://umkm-aren-backend-production.up.railway.app",
+  "https://upload-web.up.railway.app",
 ];
 
 app.use(
