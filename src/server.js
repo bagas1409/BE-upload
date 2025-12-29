@@ -12,7 +12,7 @@ connectDB();
 const app = express();
 
 const allowedOrigins = [
-  "fe-upload.vercel",
+  "https://fe-web-upload.vercel.app",
   "https://umkm-aren-backend-production.up.railway.app",
 ];
 
